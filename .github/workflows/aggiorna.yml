@@ -1,0 +1,34 @@
+name: Aggiorna la sitemap
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [sito-pubblicato]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggiorna
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/aggiorna.py
+      - name: Salva se cambiata (e ogni 50 giorni, perché GitHub non sospenda il cron)
+        run: |
+          git config user.name "digitalrunner-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet sitemap.xml; then
+            git commit -am "Sitemap aggiornata"
+          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt 4320000 ]; then
+            git commit --allow-empty -m "Il cron resta attivo"
+          else
+            exit 0
+          fi
+          git push
