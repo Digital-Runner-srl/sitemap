@@ -10,3 +10,5 @@ Il robots.txt del sito indica questa copia: `https://sitemap.digitalrunner.it/si
   Si può lanciare anche a mano da Actions → Aggiorna la sitemap → Run workflow.
 - DNS (Hostinger): `CNAME sitemap → digital-runner-srl.github.io`.
 - La sitemap originale la genera `scripts/flat-sitemap.mjs` nel repo del sito: qui non si modifica a mano.
+- `test.xml` è una sitemap di controllo (5 URL), fissa e non toccata dall'azione: serve solo a distinguere
+  "Google non ha ancora letto questo host" da "Google ha un problema con quel file". Va tolta dopo la prova.
