@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://digitalrunner.it/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/agenzia/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/agenzia/team/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/autori/alessandro-papa/</loc>
-    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/autori/gaetano/</loc>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/autori/giada-luna-giallombardo/</loc>
   </url>
   <url>
     <loc>https://digitalrunner.it/autori/milica-subotic/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/</loc>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/blog/account-based-marketing-pmi/</loc>
     <lastmod>2026-10-05</lastmod>
   </url>
   <url>
@@ -30,7 +34,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/ai-max-google-ads/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/automazione-processi-aziendali/</loc>
@@ -89,6 +93,10 @@
     <lastmod>2024-09-16</lastmod>
   </url>
   <url>
+    <loc>https://digitalrunner.it/blog/dal-lead-al-contratto-crm-fatturato/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/blog/dati-prima-parte-marketing/</loc>
     <lastmod>2025-06-04</lastmod>
   </url>
@@ -99,6 +107,10 @@
   <url>
     <loc>https://digitalrunner.it/blog/digital-marketing-per-lo-sport/</loc>
     <lastmod>2025-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/blog/digital-pr-ai-search/</loc>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/e-commerce-del-futuro/</loc>
@@ -133,6 +145,10 @@
     <lastmod>2025-03-19</lastmod>
   </url>
   <url>
+    <loc>https://digitalrunner.it/blog/enhanced-conversions-consent-mode/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/blog/evoluzione-google-ads/</loc>
     <lastmod>2025-10-29</lastmod>
   </url>
@@ -159,6 +175,10 @@
   <url>
     <loc>https://digitalrunner.it/blog/google-ads-per-le-piccole-imprese/</loc>
     <lastmod>2023-12-28</lastmod>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/blog/google-ai-mode-citazioni/</loc>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/google-shopping/</loc>
@@ -195,6 +215,10 @@
   <url>
     <loc>https://digitalrunner.it/blog/lead-nurturing-b2b/</loc>
     <lastmod>2026-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/blog/lead-scoring-b2b/</loc>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/leve-della-persuasione/</loc>
@@ -253,6 +277,10 @@
     <lastmod>2026-02-27</lastmod>
   </url>
   <url>
+    <loc>https://digitalrunner.it/blog/pmax-ai-max-search-lead-b2b/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/blog/podcast-marketing/</loc>
     <lastmod>2026-09-29</lastmod>
   </url>
@@ -281,6 +309,10 @@
     <lastmod>2024-12-21</lastmod>
   </url>
   <url>
+    <loc>https://digitalrunner.it/blog/roas-misurare-impatto-campagne/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/blog/roi-marketing-digitale/</loc>
     <lastmod>2025-07-21</lastmod>
   </url>
@@ -289,8 +321,16 @@
     <lastmod>2026-08-25</lastmod>
   </url>
   <url>
+    <loc>https://digitalrunner.it/blog/seo-ai-search-checklist/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/blog/seo-e-commerce/</loc>
     <lastmod>2025-06-26</lastmod>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/blog/seo-internazionale-b2b/</loc>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/seo-per-eventi-locali/</loc>
@@ -322,27 +362,21 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tema/advertising/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tema/automation-ai/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tema/seo-geo/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tema/social-contenuti/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tema/strategia-dati/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tema/web-e-commerce/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tiktok-ads/</loc>
@@ -374,270 +408,226 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/contatti/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/conversly/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/conversly/demo/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/cookie-policy/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/ai-overview/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/core-web-vitals/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/ctv/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/geo/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/lead-nurturing/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/lead-scoring/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/marketing-automation/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/performance-max/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/piano-editoriale/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/remarketing/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/roas/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/search-intent/</loc>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/guide/</loc>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/guide/ai-per-il-marketing/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/guide/brand-kit-adv/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/guide/google-ads-b2b/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/guide/marketing-automation-pmi-b2b/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/guide/seo-ai-search-2026/</loc>
     <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavora-con-noi/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/able-automation/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/aso-facile/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/base-running/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/compagnia-dei-caraibi/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/csa-box-doccia/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/delfin-industrial/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/elisa-industriq/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/equilibra-running-team/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/equilibra/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/metzger-1848/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/papilio-box-doccia/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/talent-way/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/tebis/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/verona-run-marathon/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/newsletter/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/privacy-policy/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/risorse/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/runalytics/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/runalytics/demo/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/running/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/analytics-dati/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/eventi-running/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/eventi/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/google-ads/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/google-ads/performance-max/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/marketing-automation/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/marketing-automation/email-marketing/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/marketing-automation/lead-nurturing-b2b/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/paid-social/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/paid-social/linkedin-ads/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/paid-social/meta-ads/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/paid-social/tiktok-ads/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/seo/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/seo/geo/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/social-media/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/soluzioni-ai/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/soluzioni-ai/formazione-ai-act/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/soluzioni-ai/second-brain-aziendale/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/sviluppo-integrazioni/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/web-e-commerce/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/b2b-industria/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/benessere-cosmetica/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/e-commerce-b2c/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/food-beverage/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/formazione/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/sport-eventi/</loc>
-    <lastmod>2026-10-05</lastmod>
   </url>
 </urlset>
