@@ -1140,7 +1140,13 @@
     <loc>https://digitalrunner.it/en/privacy-policy/</loc>
   </url>
   <url>
+    <loc>https://digitalrunner.it/en/products/</loc>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/en/resources/</loc>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/en/runmaniac/</loc>
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/</loc>
@@ -1846,6 +1852,9 @@
     <loc>https://digitalrunner.it/fr/politique-de-confidentialite/</loc>
   </url>
   <url>
+    <loc>https://digitalrunner.it/fr/produits/</loc>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/fr/realisations/</loc>
   </url>
   <url>
@@ -1892,6 +1901,9 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/ressources/</loc>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/fr/runmaniac/</loc>
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/secteurs/</loc>
@@ -2106,6 +2118,9 @@
     <loc>https://digitalrunner.it/privacy-policy/</loc>
   </url>
   <url>
+    <loc>https://digitalrunner.it/prodotti/</loc>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/realizzazione-ecommerce-torino/</loc>
     <lastmod>2026-10-07</lastmod>
   </url>
@@ -2121,6 +2136,9 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/runalytics/demo/</loc>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/runmaniac/</loc>
   </url>
   <url>
     <loc>https://digitalrunner.it/running/</loc>
@@ -2211,9 +2229,6 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/sport-eventi/</loc>
-  </url>
-  <url>
-    <loc>https://digitalrunner.it/software/</loc>
   </url>
   <url>
     <loc>https://digitalrunner.it/web-agency-torino/</loc>
