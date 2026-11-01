@@ -1312,7 +1312,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/confronti/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/confronti/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/comparatifs/"/>
@@ -1342,7 +1342,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/confronti/modelli-ai/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/comparisons/ai-models-comparison/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/comparatif-modeles-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/comparatifs/comparatif-modeles-ia/"/>
@@ -2686,7 +2686,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/comparisons/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/confronti/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/comparatifs/"/>
@@ -2696,7 +2696,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/comparisons/ai-models-comparison/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/comparisons/ai-models-comparison/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/comparatif-modeles-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/comparatifs/comparatif-modeles-ia/"/>
@@ -2896,7 +2896,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/guides/</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/guides/"/>
@@ -2963,6 +2963,16 @@
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/guides/seo-recherche-ia-2026/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/seo-ai-search-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/guides/seo-ai-search-2026/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/en/guides/sold-out-running-races/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/guides/sold-out-running-races/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/course-a-pied-afficher-complet/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/guides/course-a-pied-afficher-complet/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/guides/course-a-pied-afficher-complet/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/sold-out-gare-running/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/guides/sold-out-running-races/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/en/industries/</loc>
@@ -3066,7 +3076,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/resources/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -4782,7 +4792,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/comparatifs/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/confronti/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/comparatifs/"/>
@@ -4792,7 +4802,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/comparatifs/comparatif-modeles-ia/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/comparisons/ai-models-comparison/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/comparatif-modeles-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/comparatifs/comparatif-modeles-ia/"/>
@@ -4982,7 +4992,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/guides/</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/guides/"/>
@@ -5009,6 +5019,16 @@
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/guides/brand-kit-publicite/"/>
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/guides/brand-kit-publicite/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/guides/brand-kit-advertising/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/fr/guides/course-a-pied-afficher-complet/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/guides/sold-out-running-races/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/course-a-pied-afficher-complet/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/guides/course-a-pied-afficher-complet/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/guides/course-a-pied-afficher-complet/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/sold-out-gare-running/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/guides/sold-out-running-races/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/guides/google-ads-b2b/</loc>
@@ -5272,7 +5292,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/ressources/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -5702,7 +5722,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/guide/</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/guides/"/>
@@ -5769,6 +5789,16 @@
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/guides/seo-recherche-ia-2026/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/seo-ai-search-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/guides/seo-ai-search-2026/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/guide/sold-out-gare-running/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/guides/sold-out-running-races/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/course-a-pied-afficher-complet/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/guides/course-a-pied-afficher-complet/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/guides/course-a-pied-afficher-complet/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/sold-out-gare-running/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/guides/sold-out-running-races/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/integrazioni-software-torino/</loc>
@@ -6002,7 +6032,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/risorse/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
