@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://digitalrunner.it/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/"/>
@@ -38,7 +38,12 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/agenzia/team/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/agenzia/team/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/agence/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/agence/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/agence/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/agency/team/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/agency/team/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/autori/alessandro-papa/</loc>
@@ -1312,7 +1317,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/clubrm/demo/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/clubrm/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/clubrm/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/clubrm/demo/"/>
@@ -1322,7 +1327,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/confronti/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/confronti/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/comparatifs/"/>
@@ -1332,7 +1337,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/confronti/chatbot-ai/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/confronti/chatbot-ai/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/comparisons/best-ai-chatbots/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/meilleurs-chatbots-ia/"/>
@@ -1372,7 +1377,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/conversly/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/conversly/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/conversly/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/conversly/"/>
@@ -1382,7 +1387,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/conversly/demo/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/conversly/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/conversly/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/conversly/demo/"/>
@@ -1392,7 +1397,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/cookie-policy/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/cookie-policy/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/politique-cookies/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/politique-cookies/"/>
@@ -1406,7 +1411,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/"/>
@@ -1423,6 +1428,15 @@
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/agence/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/agency/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/agency/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/en/agency/team/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/agenzia/team/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/agence/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/agence/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/agence/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/agency/team/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/agency/team/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/en/authors/alessandro-papa/</loc>
@@ -2666,7 +2680,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/clubrm/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/clubrm/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/clubrm/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/clubrm/"/>
@@ -2686,7 +2700,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/clubrm/demo/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/clubrm/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/clubrm/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/clubrm/demo/"/>
@@ -2706,7 +2720,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/comparisons/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/confronti/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/comparatifs/"/>
@@ -2726,7 +2740,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/comparisons/best-ai-chatbots/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/confronti/chatbot-ai/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/comparisons/best-ai-chatbots/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/meilleurs-chatbots-ia/"/>
@@ -2756,7 +2770,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/conversly/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/conversly/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/conversly/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/conversly/"/>
@@ -2766,7 +2780,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/conversly/demo/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/conversly/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/conversly/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/conversly/demo/"/>
@@ -2776,7 +2790,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/cookie-policy/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/cookie-policy/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/politique-cookies/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/politique-cookies/"/>
@@ -3006,7 +3020,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/industries/b2b-manufacturing/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/b2b-industria/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/b2b-manufacturing/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/b2b-industrie/"/>
@@ -3016,7 +3030,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/industries/e-commerce-b2c/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/e-commerce-b2c/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/e-commerce-b2c/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/e-commerce-b2c/"/>
@@ -3026,7 +3040,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/industries/food-beverage/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/food-beverage/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/food-beverage/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/agroalimentaire-boissons/"/>
@@ -3046,7 +3060,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/industries/training/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/training/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/formazione/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/formation/"/>
@@ -3076,7 +3090,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/privacy-policy/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/politique-de-confidentialite/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/politique-de-confidentialite/"/>
@@ -3086,7 +3100,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/products/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/prodotti/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/produits/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/produits/"/>
@@ -3096,7 +3110,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/resources/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -3105,8 +3119,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/resources/"/>
   </url>
   <url>
+    <loc>https://digitalrunner.it/en/runalytics/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/runalytics/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/en/runalytics/demo/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/runalytics/demo/"/>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/en/runmaniac/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/runmaniac/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/runmaniac/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/runmaniac/"/>
@@ -3115,8 +3149,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/runmaniac/"/>
   </url>
   <url>
+    <loc>https://digitalrunner.it/en/running/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/running/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/running/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/running/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/running/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/running/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/running/"/>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/en/services/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/"/>
@@ -3136,7 +3180,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/ai-solutions/ai-act-training/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/ai-act-training/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
@@ -3145,8 +3189,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/services/ai-solutions/ai-act-training/"/>
   </url>
   <url>
+    <loc>https://digitalrunner.it/en/services/ai-solutions/company-second-brain/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/soluzioni-ai/second-brain-aziendale/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/company-second-brain/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/services/ai-solutions/company-second-brain/"/>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/en/services/analytics-data/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/analytics-dati/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/analytics-data/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/analytics-donnees/"/>
@@ -3166,7 +3220,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/events/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/events/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/eventi/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/evenements/"/>
@@ -3196,7 +3250,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/marketing-automation/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/marketing-automation/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/automatisation-marketing/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/automatisation-marketing/"/>
@@ -3226,7 +3280,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/paid-social/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/paid-social/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/social-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/social-ads/"/>
@@ -3266,7 +3320,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/running-events/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/running-events/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/eventi-running/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/evenements-running/"/>
@@ -3286,7 +3340,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/seo/geo/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/seo/geo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/referencement-seo/geo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/referencement-seo/geo/"/>
@@ -3316,7 +3370,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/web-ecommerce/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/web-ecommerce/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
@@ -3336,7 +3390,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/able-automation/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/able-automation/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/able-automation/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/able-automation/"/>
@@ -3356,7 +3410,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/base-running/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/base-running/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/base-running/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/base-running/"/>
@@ -3376,7 +3430,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/csa-box-doccia/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/csa-box-doccia/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/csa-box-doccia/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/csa-box-doccia/"/>
@@ -3386,7 +3440,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/delfin-industrial/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/delfin-industrial/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/delfin-industrial/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/delfin-industrial/"/>
@@ -3396,7 +3450,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/elisa-industriq/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/elisa-industriq/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/elisa-industriq/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/elisa-industriq/"/>
@@ -3406,7 +3460,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/equilibra-running-team/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/equilibra-running-team/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/equilibra-running-team/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/equilibra-running-team/"/>
@@ -3416,7 +3470,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/equilibra-shopify-store/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/equilibra-shopify-store/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/equilibra-ecommerce-shopify/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/equilibra-boutique-shopify/"/>
@@ -3426,7 +3480,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/equilibra/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/equilibra/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/equilibra/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/equilibra/"/>
@@ -3446,7 +3500,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/metzger-1848/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/metzger-1848/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/metzger-1848/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/metzger-1848/"/>
@@ -3476,7 +3530,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/talent-way/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/talent-way/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/talent-way/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/talent-way/"/>
@@ -3486,7 +3540,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/tebis/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/tebis/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/tebis/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/tebis/"/>
@@ -3496,7 +3550,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/verona-run-marathon/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/verona-run-marathon/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/verona-run-marathon/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/verona-run-marathon/"/>
@@ -3522,7 +3576,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/"/>
@@ -3539,6 +3593,15 @@
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/agence/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/agency/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/agency/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/fr/agence/equipe/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/agenzia/team/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/agence/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/agence/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/agence/equipe/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/agency/team/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/agency/team/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/auteurs/alessandro-papa/</loc>
@@ -4782,7 +4845,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/clubrm/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/clubrm/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/clubrm/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/clubrm/"/>
@@ -4812,7 +4875,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/clubrm/demo/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/clubrm/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/clubrm/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/clubrm/demo/"/>
@@ -4822,7 +4885,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/comparatifs/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/confronti/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/comparatifs/"/>
@@ -4852,7 +4915,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/comparatifs/meilleurs-chatbots-ia/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/confronti/chatbot-ai/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/comparisons/best-ai-chatbots/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/comparatifs/meilleurs-chatbots-ia/"/>
@@ -4872,7 +4935,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/conversly/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/conversly/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/conversly/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/conversly/"/>
@@ -4882,7 +4945,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/conversly/demo/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/conversly/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/conversly/demo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/conversly/demo/"/>
@@ -5112,7 +5175,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/politique-cookies/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/cookie-policy/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/politique-cookies/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/politique-cookies/"/>
@@ -5122,7 +5185,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/politique-de-confidentialite/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/politique-de-confidentialite/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/politique-de-confidentialite/"/>
@@ -5132,7 +5195,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/produits/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/prodotti/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/produits/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/produits/"/>
@@ -5152,7 +5215,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/able-automation/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/able-automation/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/able-automation/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/able-automation/"/>
@@ -5162,7 +5225,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/aso-facile/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/aso-facile/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/aso-facile/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/aso-facile/"/>
@@ -5172,7 +5235,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/base-running/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/base-running/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/base-running/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/base-running/"/>
@@ -5182,7 +5245,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/compagnia-dei-caraibi/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/compagnia-dei-caraibi/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/compagnia-dei-caraibi/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/compagnia-dei-caraibi/"/>
@@ -5192,7 +5255,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/csa-box-doccia/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/csa-box-doccia/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/csa-box-doccia/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/csa-box-doccia/"/>
@@ -5202,7 +5265,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/delfin-industrial/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/delfin-industrial/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/delfin-industrial/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/delfin-industrial/"/>
@@ -5212,7 +5275,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/elisa-industriq/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/elisa-industriq/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/elisa-industriq/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/elisa-industriq/"/>
@@ -5222,7 +5285,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/equilibra-boutique-shopify/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/equilibra-shopify-store/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/equilibra-ecommerce-shopify/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/equilibra-boutique-shopify/"/>
@@ -5232,7 +5295,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/equilibra-running-team/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/equilibra-running-team/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/equilibra-running-team/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/equilibra-running-team/"/>
@@ -5242,7 +5305,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/equilibra/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/equilibra/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/equilibra/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/equilibra/"/>
@@ -5252,7 +5315,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/esselle-servizi/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/esselle-servizi/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/esselle-servizi/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/esselle-servizi/"/>
@@ -5262,7 +5325,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/metzger-1848/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/metzger-1848/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/metzger-1848/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/metzger-1848/"/>
@@ -5272,7 +5335,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/papilio-box-doccia/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/papilio-box-doccia/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/papilio-box-doccia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/papilio-box-doccia/"/>
@@ -5292,7 +5355,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/talent-way/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/talent-way/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/talent-way/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/talent-way/"/>
@@ -5302,7 +5365,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/tebis/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/tebis/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/tebis/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/tebis/"/>
@@ -5312,7 +5375,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/verona-run-marathon/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/verona-run-marathon/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/verona-run-marathon/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/verona-run-marathon/"/>
@@ -5322,7 +5385,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/ressources/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -5331,14 +5394,44 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/resources/"/>
   </url>
   <url>
+    <loc>https://digitalrunner.it/fr/runalytics/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/runalytics/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/fr/runalytics/demo/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/runalytics/demo/"/>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/fr/runmaniac/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/runmaniac/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/runmaniac/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/runmaniac/"/>
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/runmaniac/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/runmaniac/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/runmaniac/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/fr/running/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/running/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/running/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/running/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/running/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/running/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/running/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/secteurs/</loc>
@@ -5352,7 +5445,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/secteurs/agroalimentaire-boissons/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/food-beverage/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/food-beverage/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/agroalimentaire-boissons/"/>
@@ -5362,7 +5455,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/secteurs/b2b-industrie/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/b2b-industria/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/b2b-manufacturing/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/b2b-industrie/"/>
@@ -5372,7 +5465,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/secteurs/bien-etre-cosmetique/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/benessere-cosmetica/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/wellness-cosmetics/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/bien-etre-cosmetique/"/>
@@ -5382,7 +5475,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/secteurs/e-commerce-b2c/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/e-commerce-b2c/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/e-commerce-b2c/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/e-commerce-b2c/"/>
@@ -5392,7 +5485,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/secteurs/formation/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/training/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/formazione/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/formation/"/>
@@ -5412,7 +5505,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/"/>
@@ -5422,7 +5515,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/analytics-donnees/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/analytics-dati/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/analytics-data/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/analytics-donnees/"/>
@@ -5432,7 +5525,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/automatisation-marketing/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/marketing-automation/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/automatisation-marketing/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/automatisation-marketing/"/>
@@ -5442,7 +5535,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/automatisation-marketing/emailing/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/marketing-automation/email-marketing/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/automatisation-marketing/emailing/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/automatisation-marketing/emailing/"/>
@@ -5462,7 +5555,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/web-ecommerce/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
@@ -5482,7 +5575,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/evenements-running/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/running-events/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/eventi-running/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/evenements-running/"/>
@@ -5492,7 +5585,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/evenements/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/events/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/eventi/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/evenements/"/>
@@ -5512,7 +5605,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/publicite-google-ads/performance-max/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/google-ads/performance-max/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/publicite-google-ads/performance-max/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/publicite-google-ads/performance-max/"/>
@@ -5532,7 +5625,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/referencement-seo/geo/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/seo/geo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/referencement-seo/geo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/referencement-seo/geo/"/>
@@ -5562,7 +5655,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/social-ads/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/paid-social/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/social-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/social-ads/"/>
@@ -5582,7 +5675,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/social-ads/meta-ads/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/paid-social/meta-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/social-ads/meta-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/social-ads/meta-ads/"/>
@@ -5602,7 +5695,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/solutions-ia/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
@@ -5612,13 +5705,23 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/ai-act-training/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/soluzioni-ai/formazione-ai-act/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/services/ai-solutions/ai-act-training/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/soluzioni-ai/second-brain-aziendale/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/company-second-brain/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/services/ai-solutions/company-second-brain/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/</loc>
@@ -5854,7 +5957,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/able-automation/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/able-automation/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/able-automation/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/able-automation/"/>
@@ -5874,7 +5977,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/base-running/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/base-running/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/base-running/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/base-running/"/>
@@ -5894,7 +5997,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/csa-box-doccia/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/csa-box-doccia/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/csa-box-doccia/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/csa-box-doccia/"/>
@@ -5904,7 +6007,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/delfin-industrial/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/delfin-industrial/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/delfin-industrial/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/delfin-industrial/"/>
@@ -5914,7 +6017,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/elisa-industriq/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/elisa-industriq/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/elisa-industriq/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/elisa-industriq/"/>
@@ -5924,7 +6027,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/equilibra-ecommerce-shopify/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/equilibra-shopify-store/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/equilibra-ecommerce-shopify/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/equilibra-boutique-shopify/"/>
@@ -5934,7 +6037,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/equilibra-running-team/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/equilibra-running-team/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/equilibra-running-team/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/equilibra-running-team/"/>
@@ -5944,7 +6047,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/equilibra/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/equilibra/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/lavori/equilibra/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/equilibra/"/>
@@ -5964,7 +6067,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/metzger-1848/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/metzger-1848/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/metzger-1848/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/metzger-1848/"/>
@@ -5994,7 +6097,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/talent-way/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/talent-way/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/talent-way/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/talent-way/"/>
@@ -6004,7 +6107,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/tebis/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/tebis/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/tebis/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/tebis/"/>
@@ -6034,7 +6137,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/privacy-policy/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/privacy-policy/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/politique-de-confidentialite/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/politique-de-confidentialite/"/>
@@ -6044,7 +6147,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/prodotti/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/prodotti/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/produits/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/produits/"/>
@@ -6062,7 +6165,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/risorse/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -6072,15 +6175,27 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/runalytics/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/runalytics/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/runalytics/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/runalytics/demo/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/runalytics/demo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/runalytics/demo/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/runmaniac/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/runmaniac/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/runmaniac/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/runmaniac/"/>
@@ -6090,11 +6205,17 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/running/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/running/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/running/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/running/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/running/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/running/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/running/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/"/>
@@ -6104,7 +6225,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/analytics-dati/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/analytics-dati/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/analytics-data/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/analytics-donnees/"/>
@@ -6114,7 +6235,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/eventi-running/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/running-events/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/eventi-running/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/evenements-running/"/>
@@ -6154,7 +6275,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/marketing-automation/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/marketing-automation/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/automatisation-marketing/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/automatisation-marketing/"/>
@@ -6184,7 +6305,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/paid-social/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/paid-social/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/social-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/social-ads/"/>
@@ -6284,7 +6405,13 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/soluzioni-ai/second-brain-aziendale/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/soluzioni-ai/second-brain-aziendale/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/company-second-brain/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/services/ai-solutions/company-second-brain/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/sviluppo-integrazioni/</loc>
@@ -6298,7 +6425,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/web-e-commerce/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/web-ecommerce/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
@@ -6318,7 +6445,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/b2b-industria/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/b2b-industria/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/b2b-manufacturing/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/b2b-industrie/"/>
@@ -6338,7 +6465,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/e-commerce-b2c/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/e-commerce-b2c/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/e-commerce-b2c/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/e-commerce-b2c/"/>
@@ -6348,7 +6475,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/food-beverage/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/food-beverage/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/food-beverage/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/agroalimentaire-boissons/"/>
@@ -6358,7 +6485,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/settori/formazione/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/industries/training/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/settori/formazione/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/secteurs/formation/"/>
