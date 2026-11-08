@@ -12,11 +12,11 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/agenzia-comunicazione-torino/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/agenzia-google-ads-torino/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/agenzia-seo-torino/</loc>
@@ -24,7 +24,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/agenzia-social-media-torino/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/agenzia/</loc>
@@ -138,7 +138,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/"/>
@@ -185,6 +185,16 @@
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ai-max-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ai-max-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/ai-max-google-ads/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/blog/aprire-un-ecommerce/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/aprire-un-ecommerce/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/how-to-start-an-ecommerce-business/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/ouvrir-une-boutique-en-ligne/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ouvrir-une-boutique-en-ligne/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ouvrir-une-boutique-en-ligne/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/how-to-start-an-ecommerce-business/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/audit-seo/</loc>
@@ -1208,7 +1218,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tema/web-e-commerce/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/web-e-commerce/"/>
@@ -1542,7 +1552,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/"/>
@@ -2101,6 +2111,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/how-to-promote-a-running-race/"/>
   </url>
   <url>
+    <loc>https://digitalrunner.it/en/blog/how-to-start-an-ecommerce-business/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/aprire-un-ecommerce/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/how-to-start-an-ecommerce-business/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/ouvrir-une-boutique-en-ligne/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ouvrir-une-boutique-en-ligne/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ouvrir-une-boutique-en-ligne/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/how-to-start-an-ecommerce-business/"/>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/en/blog/industrial-marketing-b2b-manufacturing-smes/</loc>
     <lastmod>2026-06-24</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/industrial-marketing-b2b-manufacturing-smes/"/>
@@ -2632,7 +2652,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/topic/web-e-commerce/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/web-e-commerce/"/>
@@ -2822,7 +2842,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/glossary/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/glossario/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/glossaire/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/glossaire/"/>
@@ -2832,7 +2852,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/glossary/ai-overview/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/glossario/ai-overview/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/glossary/ai-overview/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/glossaire/ai-overview/"/>
@@ -3132,7 +3152,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/resources/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -3192,7 +3212,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/ai-solutions/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
@@ -3252,7 +3272,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/google-ads/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/google-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/publicite-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/publicite-google-ads/"/>
@@ -3352,7 +3372,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/seo/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/seo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/referencement-seo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/referencement-seo/"/>
@@ -3372,7 +3392,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/social-media/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/social-media/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/reseaux-sociaux/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/reseaux-sociaux/"/>
@@ -3392,7 +3412,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/web-ecommerce/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/web-ecommerce/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
@@ -3722,7 +3742,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/"/>
@@ -4371,6 +4391,16 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/funnel-optimisation-ai/"/>
   </url>
   <url>
+    <loc>https://digitalrunner.it/fr/blog/ouvrir-une-boutique-en-ligne/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/aprire-un-ecommerce/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/how-to-start-an-ecommerce-business/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/ouvrir-une-boutique-en-ligne/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ouvrir-une-boutique-en-ligne/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ouvrir-une-boutique-en-ligne/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/how-to-start-an-ecommerce-business/"/>
+  </url>
+  <url>
     <loc>https://digitalrunner.it/fr/blog/page-linkedin-entreprise/</loc>
     <lastmod>2026-10-16</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/linkedin-for-business-company-page/"/>
@@ -4782,7 +4812,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/theme/web-e-commerce/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/web-e-commerce/"/>
@@ -4992,7 +5022,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/glossaire/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/glossario/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/glossaire/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/glossaire/"/>
@@ -5002,7 +5032,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/glossaire/ai-overview/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/glossario/ai-overview/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/glossary/ai-overview/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/glossaire/ai-overview/"/>
@@ -5422,7 +5452,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/ressources/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -5592,7 +5622,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/web-ecommerce/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
@@ -5632,7 +5662,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/publicite-google-ads/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/google-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/publicite-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/publicite-google-ads/"/>
@@ -5652,7 +5682,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/referencement-seo/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/seo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/referencement-seo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/referencement-seo/"/>
@@ -5672,7 +5702,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/reseaux-sociaux/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/social-media/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/reseaux-sociaux/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/reseaux-sociaux/"/>
@@ -5732,7 +5762,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/solutions-ia/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
@@ -5762,7 +5792,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/glossario/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/glossaire/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/glossaire/"/>
@@ -5772,7 +5802,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/glossario/ai-overview/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/glossario/ai-overview/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/glossary/ai-overview/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/glossaire/ai-overview/"/>
@@ -5972,11 +6002,11 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/integrazioni-software-torino/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/intelligenza-artificiale-torino/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavora-con-noi/</loc>
@@ -6194,15 +6224,15 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/realizzazione-ecommerce-torino/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/realizzazione-siti-web-torino/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/risorse/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -6292,7 +6322,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/google-ads/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/google-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/publicite-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/publicite-google-ads/"/>
@@ -6382,7 +6412,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/seo/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/seo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/referencement-seo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/referencement-seo/"/>
@@ -6402,7 +6432,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/social-media/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/social-media/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/reseaux-sociaux/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/reseaux-sociaux/"/>
@@ -6422,7 +6452,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/soluzioni-ai/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
@@ -6462,7 +6492,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/web-e-commerce/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/web-ecommerce/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/creation-sites-web-e-commerce/"/>
@@ -6542,6 +6572,6 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/web-agency-torino/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-08</lastmod>
   </url>
 </urlset>
