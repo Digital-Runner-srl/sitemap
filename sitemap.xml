@@ -138,7 +138,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/"/>
@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/ai-act-formazione-obbligatoria/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/ai-act-formazione-obbligatoria/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/ai-act-mandatory-training/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/formation-ia-obligatoire-ai-act/"/>
@@ -185,6 +185,16 @@
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ai-max-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ai-max-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/ai-max-google-ads/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/blog/ai-overview/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/ai-overview/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/ai-overviews-lost-traffic/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/ai-overviews-trafic-perdu/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ai-overviews-trafic-perdu/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ai-overviews-trafic-perdu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/ai-overviews-lost-traffic/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/aprire-un-ecommerce/</loc>
@@ -708,7 +718,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/intelligenza-artificiale-per-le-pmi/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/ai-for-smes-claude/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/ia-pour-pme-claude/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ia-pour-pme-claude/"/>
@@ -1198,7 +1208,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tema/automation-ai/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/automation-ai/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/automatisation-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/automatisation-ia/"/>
@@ -1208,7 +1218,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tema/seo-geo/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/seo-geo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/seo-geo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/seo-geo/"/>
@@ -1572,7 +1582,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/"/>
@@ -1592,7 +1602,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/ai-act-mandatory-training/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/ai-act-formazione-obbligatoria/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/ai-act-mandatory-training/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/formation-ia-obligatoire-ai-act/"/>
@@ -1612,7 +1622,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/ai-for-smes-claude/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/ai-for-smes-claude/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/ia-pour-pme-claude/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ia-pour-pme-claude/"/>
@@ -1649,6 +1659,16 @@
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ai-max-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ai-max-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/ai-max-google-ads/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/en/blog/ai-overviews-lost-traffic/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/ai-overview/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/ai-overviews-lost-traffic/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/ai-overviews-trafic-perdu/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ai-overviews-trafic-perdu/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ai-overviews-trafic-perdu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/ai-overviews-lost-traffic/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/b2b-customer-journey/</loc>
@@ -2652,7 +2672,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/topic/automation-ai/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/automation-ai/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/automatisation-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/automatisation-ia/"/>
@@ -2662,7 +2682,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/topic/seo-geo/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/seo-geo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/seo-geo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/seo-geo/"/>
@@ -3012,7 +3032,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/guides/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/guides/"/>
@@ -3022,7 +3042,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/guides/ai-for-marketing/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/ai-per-il-marketing/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/guides/ai-for-marketing/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/ia-pour-le-marketing/"/>
@@ -3032,7 +3052,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/guides/brand-kit-advertising/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/brand-kit-adv/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/guides/brand-kit-advertising/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/brand-kit-publicite/"/>
@@ -3192,7 +3212,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/resources/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -3262,7 +3282,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/ai-solutions/ai-act-training/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/ai-act-training/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
@@ -3272,7 +3292,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/ai-solutions/company-second-brain/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/soluzioni-ai/second-brain-aziendale/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
@@ -3786,7 +3806,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/"/>
@@ -3813,6 +3833,16 @@
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ai-max-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ai-max-google-ads/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/ai-max-google-ads/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/fr/blog/ai-overviews-trafic-perdu/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/ai-overview/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/ai-overviews-lost-traffic/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/ai-overviews-trafic-perdu/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ai-overviews-trafic-perdu/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ai-overviews-trafic-perdu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/en/blog/ai-overviews-lost-traffic/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/audit-seo/</loc>
@@ -4096,7 +4126,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/formation-ia-obligatoire-ai-act/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/ai-act-formazione-obbligatoria/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/ai-act-mandatory-training/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/formation-ia-obligatoire-ai-act/"/>
@@ -4246,7 +4276,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/ia-pour-pme-claude/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/ai-for-smes-claude/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/ia-pour-pme-claude/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/ia-pour-pme-claude/"/>
@@ -4826,7 +4856,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/theme/automatisation-ia/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/automation-ai/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/automatisation-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/automatisation-ia/"/>
@@ -4856,7 +4886,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/theme/seo-geo/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/seo-geo/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/seo-geo/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/seo-geo/"/>
@@ -5216,7 +5246,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/guides/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/guides/"/>
@@ -5236,7 +5266,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/guides/brand-kit-publicite/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/brand-kit-adv/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/guides/brand-kit-advertising/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/brand-kit-publicite/"/>
@@ -5266,7 +5296,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/guides/ia-pour-le-marketing/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/ai-per-il-marketing/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/guides/ai-for-marketing/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/ia-pour-le-marketing/"/>
@@ -5516,7 +5546,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/ressources/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -5836,7 +5866,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/ai-act-training/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
@@ -5846,7 +5876,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/soluzioni-ai/second-brain-aziendale/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
@@ -5986,7 +6016,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/guide/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/guides/"/>
@@ -5996,7 +6026,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/guide/ai-per-il-marketing/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/ai-per-il-marketing/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/guides/ai-for-marketing/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/ia-pour-le-marketing/"/>
@@ -6006,7 +6036,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/guide/brand-kit-adv/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/guide/brand-kit-adv/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/guides/brand-kit-advertising/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/guides/brand-kit-publicite/"/>
@@ -6070,7 +6100,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/intelligenza-artificiale-torino/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-18</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/lavora-con-noi/</loc>
@@ -6296,7 +6326,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/risorse/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -6526,7 +6556,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/soluzioni-ai/formazione-ai-act/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/ai-act-training/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/formation-ai-act/"/>
@@ -6536,7 +6566,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/soluzioni-ai/second-brain-aziendale/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/servizi/soluzioni-ai/second-brain-aziendale/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/second-cerveau-entreprise/"/>
