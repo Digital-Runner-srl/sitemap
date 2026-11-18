@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://digitalrunner.it/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/"/>
@@ -1452,7 +1452,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/"/>
@@ -3252,7 +3252,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/services/ai-solutions/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
@@ -3632,7 +3632,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/work/verona-run-marathon/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/verona-run-marathon/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/verona-run-marathon/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/verona-run-marathon/"/>
@@ -3642,11 +3642,15 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/eventi/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-18</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/eventi/cedas-we-run-2026/</loc>
     <lastmod>2026-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/eventi/eurospin-verona-marathon-2026/</loc>
+    <lastmod>2026-11-18</lastmod>
   </url>
   <url>
     <loc>https://digitalrunner.it/eventi/metzger-fest-2026/</loc>
@@ -3662,7 +3666,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/"/>
@@ -5502,7 +5506,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/realisations/verona-run-marathon/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/verona-run-marathon/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/verona-run-marathon/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/verona-run-marathon/"/>
@@ -5822,7 +5826,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/services/solutions-ia/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
@@ -6244,7 +6248,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/lavori/verona-run-marathon/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/work/verona-run-marathon/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/realisations/verona-run-marathon/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/realisations/verona-run-marathon/"/>
@@ -6512,7 +6516,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/servizi/soluzioni-ai/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/services/ai-solutions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/services/solutions-ia/"/>
