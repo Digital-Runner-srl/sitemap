@@ -138,7 +138,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/"/>
@@ -375,6 +375,16 @@
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/parcours-client-b2b/"/>
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/parcours-client-b2b/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/blog/customer-journey-b2b/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/blog/customer-lifetime-value/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/customer-lifetime-value/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/customer-lifetime-value/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/valeur-vie-client/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/valeur-vie-client/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/valeur-vie-client/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/blog/customer-lifetime-value/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/cybersecurity-sicurezza-online/</loc>
@@ -1248,7 +1258,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/blog/tema/strategia-dati/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/strategia-dati/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/strategie-donnees/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/strategie-donnees/"/>
@@ -1592,7 +1602,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/"/>
@@ -1859,6 +1869,16 @@
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/publicite-ctv-magnite-the-trade-desk/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/pubblicita-ctv/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/blog/pubblicita-ctv/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/en/blog/customer-lifetime-value/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/customer-lifetime-value/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/customer-lifetime-value/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/valeur-vie-client/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/valeur-vie-client/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/valeur-vie-client/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/blog/customer-lifetime-value/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/cybersecurity-digital-marketing/</loc>
@@ -2722,7 +2742,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/blog/topic/strategy-data/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/strategia-dati/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/strategie-donnees/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/strategie-donnees/"/>
@@ -3232,7 +3252,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/en/resources/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -3826,7 +3846,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/"/>
@@ -4926,7 +4946,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/theme/strategie-donnees/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/tema/strategia-dati/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/theme/strategie-donnees/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/theme/strategie-donnees/"/>
@@ -5003,6 +5023,16 @@
     <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/ux-marketing/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/ux-marketing/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/blog/ux-marketing/"/>
+  </url>
+  <url>
+    <loc>https://digitalrunner.it/fr/blog/valeur-vie-client/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/blog/customer-lifetime-value/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://digitalrunner.it/en/blog/customer-lifetime-value/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/blog/valeur-vie-client/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/blog/valeur-vie-client/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://digitalrunner.it/fr/blog/valeur-vie-client/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://digitalrunner.it/blog/customer-lifetime-value/"/>
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/blog/vendre-produits-alimentaires-en-ligne/</loc>
@@ -5576,7 +5606,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/fr/ressources/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
@@ -6356,7 +6386,7 @@
   </url>
   <url>
     <loc>https://digitalrunner.it/risorse/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="it" href="https://digitalrunner.it/risorse/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://digitalrunner.it/fr/ressources/"/>
     <xhtml:link rel="alternate" hreflang="fr-FR" href="https://digitalrunner.it/fr/ressources/"/>
